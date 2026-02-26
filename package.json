@@ -2,7 +2,7 @@
   "name": "taskflow-dashboard",
   "version": "1.0.0",
   "description": "A beautiful React dashboard for task management with TypeScript and Tailwind CSS",
-  "homepage": "https://Abhijith126.github.io/taskflow-dashboard/",
+  "homepage": "https://abhijith126.github.io/taskflow-dashboard/",
   "type": "module",
   "scripts": {
     "dev": "vite",
